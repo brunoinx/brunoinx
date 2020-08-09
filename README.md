@@ -1,6 +1,7 @@
+<img src="https://cdn.lowgif.com/small/be83dd67333eefab-gifs-transparent-background-11-background-check-all.gif" width="70">
+
 ### Hello Devs!! I am Bruno, welcome to my profile👋👨‍💻
 <br/>
-
 
 <div align="left" style="display= block">
 
