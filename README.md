@@ -3,25 +3,26 @@
 ### Hello Devs!! I am Bruno, welcome to my profile👋👨‍💻
 <br/>
 
-<div align="left" style="display= block">
+Sou estudante de programação, curioso e apaixonado pela idéia de poder alcançar tantos resultados incríveis utilizando as melhores tecnologias. 💻 Estou sempre em busca de evoluir, aprender algo novo e de ser melhor do que eu fui ontem.
+
+- 📚 I’m currently learning about JavaScript Universe;
+- 👷🏽‍♂️ I am dedicating to fullStack development with NodeJS, React and React native. But, the current focus is on ReactJs;
+<br/>
+
+<div>
 
   ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoinx&show_icons=true)
 
-  <a target="_blank" href="https://www.linkedin.com/in/bruno-henrique10">
-    <img align="left" alt="LinkdeIN" width="62px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-
-  <a target="_blank" href="brunoh.henriqueh01@gmail.com">
-    <img align="left" alt="Gmail" width="56px" height="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
+  ### 📢 Me Encontre aqui também
+  <p align="left">
+    <a href="https://www.linkedin.com/in/bruno-henrique10/">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://mail.google.com/brunoh.henriqueh01@gmail.com">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">
+    </a>
+  </p>
 </div>
-
-<br/><br/>
-Sou estudante de programação, curioso e apaixonado pela idéia de poder alcançar tantos resultados incríveis utilizando as melhores tecnologias. 💻
-Estou sempre em busca de evoluir, aprender algo novo e de ser melhor do que eu fui ontem.
-
-- 🌱 I’m currently learning about JavaScript Universe
-
 <br/>
 
 ### Languages and Tools
