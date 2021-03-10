@@ -3,7 +3,7 @@
 ### Hello Devs!! I am Bruno, welcome to my profile👋👨‍💻
 <br/>
 
-Sou estudante de programação, curioso e apaixonado pela idéia de poder alcançar tantos resultados incríveis utilizando as melhores tecnologias. 💻 Estou sempre em busca de evoluir, aprender algo novo e de ser melhor do que eu fui ontem.
+I am a student of programming, curious and passionate about the idea of ​​being able to achieve so many incredible results using the best technologies. 💻 I'm always looking to evolve, learn something new and be better than I was yesterday.
 
 - 📚 I’m currently learning about JavaScript Universe;
 - 👷🏽‍♂️ I am dedicating to fullStack development with NodeJS, React and React native. But, the current focus is on ReactJs;
