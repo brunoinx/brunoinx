@@ -11,7 +11,7 @@ I am a student of programming, curious and passionate about the idea of ​​be
 
 <div>
 
-  ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoinx&show_icons=true)
+  ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoinx&show_icons=true&theme=chartreuse-dark&hide=prs)
 
   ### 📢 Me Encontre aqui também
   <p align="left">
