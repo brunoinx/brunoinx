@@ -11,8 +11,12 @@ I am a student of programming, curious and passionate about the idea of ​​be
 
 <div>
 
-  ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoinx&show_icons=true&theme=chartreuse-dark&hide=prs)
-
+  <div style="display: flex; justify-content: space-between">
+    ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoinx&show_icons=true&theme=chartreuse-dark&hide=prs);
+  
+    <img src="/web-developer.svg" alt="Logo Developer"  width="400px" />
+  </div>
+  
   ### 📢 Me Encontre aqui também
   <p align="left">
     <a href="https://www.linkedin.com/in/bruno-henrique10/">
