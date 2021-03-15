@@ -11,10 +11,11 @@ I am a student of programming, curious and passionate about the idea of ​​be
 
 <div>
   
+  <br/>
   <div style="display: flex; justify-content: space-between">
   
    ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoinx&show_icons=true&theme=chartreuse-dark&hide=prs)
-   <img src="developer_activity.svg" alt="Logo Developer"  width="380px" align="right"/>
+   <img src="developer_activity.svg" alt="Logo Developer"  width="360px" align="right"/>
    
    </div>
   
@@ -34,22 +35,26 @@ I am a student of programming, curious and passionate about the idea of ​​be
 
 <div align="left" display="inline">
   <code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   </code>
 
   <code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  </code>
+  
+  <code>
+    <img height="30" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" >
   </code>
 
   <code>
-    <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  </code>
+  
+  <code>
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   </code>
 
   <code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  </code>
-
-  <code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   </code>
 </div>
