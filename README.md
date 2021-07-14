@@ -11,8 +11,8 @@ I am a student of programming, curious and passionate about the idea of ​​be
 <div>
   
   <br/>
-  <div style="display: flex;">
-  
+  <div style="display: flex; justify-content: space-around">
+
    ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoinx&show_icons=true&theme=chartreuse-dark&hide=prs)
 
    <img src="./version_control.svg" alt="Logo Developer"  width="340px" style="margin-left: 260px;"/>
