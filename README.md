@@ -43,15 +43,11 @@ I am a student of programming, curious and passionate about the idea of ​​be
   </code>
   
   <code>
-    <img height="30" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" >
+    <img height="30" src="https://static.expo.dev/static/brand/square-512x512.png">
   </code>
 
   <code>
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  </code>
-  
-  <code>
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   </code>
 
   <code>
