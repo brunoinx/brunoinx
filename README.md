@@ -6,16 +6,16 @@ I am a student of programming, curious and passionate about the idea of ​​be
 
 - 📚 I’m currently learning about JavaScript Universe;
 - 👷🏽‍♂️ I am dedicating to fullStack development with NodeJS, React and React native. But, the current focus is on ReactJs;
-<br/>
+  <br/>
 
 <div>
   
   <br/>
   <div style="display: flex; justify-content: space-around">
 
-   ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoinx&show_icons=true&theme=chartreuse-dark&hide=prs)
+![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoinx&show_icons=true&theme=chartreuse-dark&hide=prs)
 
-   <img src="./version_control.svg" alt="Logo Developer"  width="340px"/>
+   <img src="./version_control.svg" alt="Logo Developer"  width="240px" style="margin-left: 200px"/>
    </div>
   
   #### 📢 Entre em contato comigo: 
