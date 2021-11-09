@@ -27,7 +27,7 @@ I am a student of programming, curious and passionate about the idea of ​​be
          width="90px"
       />
     </a>
-    <a href="https://mail.google.com/brunoh.henriqueh01@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brunoh.henriqueh01@gmail.com">
       <img
          src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg"
          alt="Gmail"
