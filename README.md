@@ -1,6 +1,6 @@
 <img src="https://cdn.lowgif.com/small/be83dd67333eefab-gifs-transparent-background-11-background-check-all.gif" width="80">
 
-### Hello Devs!!
+### Hi friends!
 
 I am a student of programming, curious and passionate about the idea of ​​being able to achieve so many incredible results using the best technologies. 💻 I'm always looking to evolve, learn something new and be better than I was yesterday.
 
@@ -17,7 +17,7 @@ I am a student of programming, curious and passionate about the idea of ​​be
    <img src="./version_control.svg" alt="Logo Developer"  width="300px"/>
   </div>
   
-  #### 📢 Entre em contato comigo: 
+  #### 📢 Contact me: 
   <p align="left">
     <a href="https://www.linkedin.com/in/bruno-henrique10/">
       <img 
