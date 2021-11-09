@@ -19,7 +19,7 @@ I am a student of programming, curious and passionate about the idea of ​​be
   
   #### 📢 Contact me: 
   <p align="left">
-    <a href="https://www.linkedin.com/in/bruno-henrique10/">
+    <a href="https://www.linkedin.com/in/bruno-henrique10/" target="_blank">
       <img 
          src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" 
          alt="LinkedIn"
@@ -27,7 +27,7 @@ I am a student of programming, curious and passionate about the idea of ​​be
          width="90px"
       />
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brunoh.henriqueh01@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brunoh.henriqueh01@gmail.com" target="_blank">
       <img
          src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg"
          alt="Gmail"
