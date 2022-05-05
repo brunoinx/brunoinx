@@ -1,4 +1,4 @@
-<img src="https://cdn.lowgif.com/small/be83dd67333eefab-gifs-transparent-background-11-background-check-all.gif" width="80">
+<img src="./.github/bmo.gif" width="80">
 
 ### Hi friends!
 
