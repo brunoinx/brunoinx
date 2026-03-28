@@ -1,6 +1,6 @@
 # Olá, me chamo Bruno <img src="./.github/bmo.gif" width="50" align="absmiddle">
 
-Engenheiro de Software com sólida experiência em desenvolvimento de aplicações FullStack WEB e MOBILE modernas. Foco em evolução arquitetural, escalabilidade e alto desempenho.
+Engenheiro de Software com 5+ anos de experiência construindo aplicações FullStack web e mobile. Tenho experiência principalmente em frontend, mas já atuei em todo o ciclo de vida do software. Do o desenvolvimento até o deploy, com automação de processos e entregas contínuas.
 
 ## 👨‍💻 Sobre mim
 
